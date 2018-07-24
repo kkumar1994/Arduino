@@ -1,0 +1,3 @@
+Designed a custom R-2R ladder DAC coupled with the Arduino to produce custom images on Oscilloscope
+
+Implemented the same on ARM Cortex M-3 processor 
