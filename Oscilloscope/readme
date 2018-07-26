@@ -1,3 +1,7 @@
 Designed a custom R-2R ladder(DAC) and filter circuits 
 Coupled them with the Arduino Uno to produce custom images on Oscilloscope
-Implemented the same on ARM Cortex M-3 processor 
+Implemented the same on TM4c123G ARM Cortex M-4 processor
+Wrote a python script to convert any given input image to a set of points that can be easily interfaced with oscilloscope
+Created images such as circle and rectangle using different combination of Sine and Cosine waves
+Other complex waveforms can be created depending on the requirement such as ramp, starbust, etc
+
